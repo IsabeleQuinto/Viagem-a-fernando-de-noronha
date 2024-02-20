@@ -1,0 +1,15 @@
+.h1{
+  color: #ffffff;
+  border:10px solid rgb(0,86,0);
+  background-color: rgb(1,120,1);
+  border-radius: 10px;
+}
+h2{
+  border: 10px solid #9a4e00;
+  background-color: #df7103;
+  border-radius: 10px;
+}
+.h2{
+  color: blue;
+  
+}
